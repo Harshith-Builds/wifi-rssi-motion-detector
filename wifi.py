@@ -84,7 +84,7 @@ def classify_movement(signals):
 
 def main():
     print("Starting Wi-Fi stick figure demo...")
-    print("Connect your laptop to the D-Link Wi-Fi first.")
+    print("Connect your laptop to the Wi-Fi first.")
     time.sleep(2)
 
     while True:
