@@ -84,13 +84,13 @@ No extra Python packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Harshith-Builds/Wifi_analyzer/
+git clone https://github.com/Harshith-Builds/wifi-rssi-motion-detector/
 ```
 
 Go into the project folder:
 
 ```bash
-Wifi_analyzer
+wifi-rssi-motion-detector
 ```
 
 ---
@@ -210,7 +210,7 @@ Person estimate: strong movement near signal path
 ## Project Structure
 
 ```text
-Wifi_analyzer/
+wifi-rssi-motion-detector/
 │
 ├── wifi.py
 └── README.md
