@@ -210,9 +210,9 @@ Person estimate: strong movement near signal path
 ## Project Structure
 
 ```text
-wifi-stick-figure-motion-demo/
+Wifi_analyzer/
 │
-├── wifi_motion_demo.py
+├── wifi.py
 └── README.md
 ```
 
