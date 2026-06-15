@@ -84,13 +84,13 @@ No extra Python packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wifi-stick-figure-motion-demo.git
+git clone https://github.com/Harshith-Builds/Wifi_analyzer/
 ```
 
 Go into the project folder:
 
 ```bash
-cd wifi-stick-figure-motion-demo
+Wifi_analyzer
 ```
 
 ---
@@ -100,7 +100,7 @@ cd wifi-stick-figure-motion-demo
 Run the Python file:
 
 ```bash
-python wifi_motion_demo.py
+python wifi.py
 ```
 
 Make sure your laptop is connected to Wi-Fi before running the program.
